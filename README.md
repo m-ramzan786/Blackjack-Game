@@ -71,7 +71,7 @@ The project is organized for easy navigation and features a clean and visually a
 
 ## Credits
 
-- [Muhammad Ramzan](https://github.com/m-ramzan786) - Project Creator
+This project was developed with the support of [Scrimba](https://scrimba.com/), an interactive learning platform for web development.
 
 ## License
 
